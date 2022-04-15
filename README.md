@@ -1,1 +1,1 @@
-# A library page to test my dom skills.
+# Projeto DOM que consiste numa biblioteca virtual.
